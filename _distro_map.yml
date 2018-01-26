@@ -6,6 +6,6 @@ aerogear:
   site_name: Home
   site_url: http://aerogear.org/
   branches:
-    master:
-      name: Latest
-      dir: latest
+    release1:
+      name: 1.0
+      dir: 1.0
