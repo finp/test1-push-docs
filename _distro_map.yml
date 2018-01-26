@@ -9,3 +9,6 @@ aerogear:
     master:
       name: Latest
       dir: latest
+    release1:
+      name: one
+      dir: one
