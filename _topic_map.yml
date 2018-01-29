@@ -42,10 +42,10 @@ Topics:
     File: configuring-push
 ---
 Name: Using the SDKs
-Dir: configuring-push
+Dir: using_sdks
 Topics:
   - Name: Using the iOS 1.0 SDK with Push
-    File: configuring-push
+    File: ios-sdk-1-0
   - Name: Using the iOS 1.1 SDK with Push
     File: configuring-push
   - Name: Using the Android 1.0 SDK with Push
