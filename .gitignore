@@ -39,3 +39,4 @@ _package
 *.swp
 diag-*.png
 diag-*.png.cache
+node_modules
