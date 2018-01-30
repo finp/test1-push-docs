@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/finp/test1-push-docs/issues"
   },
-  "homepage": "https://github.com/finp/test1-push-docs#readme"
+  "homepage": "https://github.com/finp/test1-push-docs#readme",
+  "dependencies": {
+    "test1-sdk-docs": "git+ssh://git@github.com/finp/test1-ios-sdk-docs.git#master"
+  }
 }
