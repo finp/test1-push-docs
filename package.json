@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/finp/test1-push-docs#readme",
   "dependencies": {
-    "test1-sdk-docs": "git+ssh://git@github.com/finp/test1-ios-sdk-docs.git#master"
+    "test1-ios-sdk-docs-v1.0": "git+ssh://git@github.com/finp/test1-ios-sdk-docs.git#v1.0",
+    "test1-ios-sdk-docs-latest": "git+ssh://git@github.com/finp/test1-ios-sdk-docs.git#master"
   }
 }
