@@ -21,47 +21,28 @@
 # The ordering of the records in this document determines the ordering of the
 # topic groups and topics on the main page.
 ---
-Name: Getting Started
-Dir: getting-started
+Name: Push User Guide
+Dir: user
 Topics:
-  - Name: Oveview
-    File: mobile_overview
-  - Name: Terminology
-    File: mobile_terminology
-  - Name: Architecture
-    File: mobile_architecture
-  - Name: Installing
-    File: installing
-  - Name: Debugging guide
-    File: debugging_guide
----
-Name: Configuring Push
-Dir: configuring-push
-Topics:
-  - Name: Configuring the Push Mobile Service
-    File: configuring-push
----
-Name: Using the SDKs
-Dir: using_sdks
-Topics:
-  - Name: Using the iOS 1.0 SDK with Push
-    File: ios-sdk-1-0
-  - Name: Using the iOS 1.1 SDK with Push
-    File: configuring-push
-  - Name: Using the Android 1.0 SDK with Push
-    File: configuring-push
-  - Name: Using the Android 1.1 SDK with Push
-    File: configuring-push
----
-Name: Compatible Services
-Dir: configuring-push
-Topics:
-  - Name: Compatibility Matrix
-    File: compatible
----
-Name: Push API Guide
-Dir: configuring-push
-Topics:
-  - Name: Reference
-    File: reference
-
+  - Name: Overview
+    File: overview
+  - Name: Install the UnifiedPush Server
+    File: server-installation
+  - Name: System Properties for the UnifiedPush Server
+    File: server-installation_properties
+  - Name: Cluster and Docker
+    File: server-installation_advanced
+  - Name: Openshift
+    File: openshift
+  - Name: Using the Admin UI
+    File: admin-ui
+  - Name: Debugging the UnifiedPush Server
+    File: ups-debugging
+  - Name: Integrating the UnifiedPush Server
+    File: integration
+  - Name: Database migration
+    File: migration
+  - Name: Next steps
+    File: next
+  - Name: Appendix
+    File: appendix

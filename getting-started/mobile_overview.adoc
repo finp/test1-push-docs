@@ -1,6 +1,0 @@
-include::shared/attributes.adoc[]
-
-= Overview of Mobile.next
-
-{mobile.next} extends OpenShift to allow you create mobile apps and services from the OpenShift service catalog:
-image::overview.png[]

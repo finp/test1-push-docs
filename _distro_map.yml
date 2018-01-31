@@ -1,6 +1,6 @@
 ---
-aerogear:
-  name: Aerogear Docs
+push:
+  name: Unified Push Server
   author: Aerogear
   site: main
   site_name: Home
@@ -9,6 +9,7 @@ aerogear:
     master:
       name: Latest
       dir: latest
-    release1:
-      name: one
-      dir: one
+    v1.0
+      name: v1.0
+      dir: v1.0
+
